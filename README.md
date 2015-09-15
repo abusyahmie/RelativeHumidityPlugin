@@ -7,7 +7,7 @@ Example code:
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Acceleration & Temperature Example</title>
+    <title>Acceleration, Temperature & Relative Humidity Example</title>
 
     <script type="text/javascript" charset="utf-8" src="cordova.js"></script>
     <script type="text/javascript" charset="utf-8">
