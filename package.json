@@ -1,0 +1,20 @@
+{
+    "version": "0.1",
+    "name": "com.abusyahmie.relativehumiditysensorplugin",
+    "cordova_name": "Relative Humidity Sensor Plugin",
+    "description": "Relative Humidity Sensor Plugin",
+    "license": "Apache 2.0",
+    "repo": "",
+    "issue": "",
+    "keywords": [
+        "cordova",
+        "device",
+		"environmental",
+		"cordova-android"
+    ],
+    "platforms": [
+        "android",
+    ],
+    "engines": [],
+    "englishdoc": ""
+}
